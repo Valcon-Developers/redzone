@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://redzone-gaming.vercel.app/sitemap.xml
